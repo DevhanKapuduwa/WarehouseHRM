@@ -1,0 +1,48 @@
+# ─── Laravel / PHP ───────────────────────────────────────────────────────────
+HR_and_Task_Management_Backend/vendor/
+HR_and_Task_Management_Backend/.env
+HR_and_Task_Management_Backend/storage/logs/*.log
+HR_and_Task_Management_Backend/storage/framework/cache/
+HR_and_Task_Management_Backend/storage/framework/sessions/
+HR_and_Task_Management_Backend/storage/framework/views/
+HR_and_Task_Management_Backend/bootstrap/cache/*.php
+
+# ─── Node / React ─────────────────────────────────────────────────────────────
+HR_and_Task_Management_Backend/node_modules/
+HR_and_Task_Management_Backend/public/build/
+HR_and_Task_Management_Backend/public/hot
+
+# ─── Python venvs ─────────────────────────────────────────────────────────────
+faceDetection/venv/
+model/venv/
+faceEmotionAWS/venv/
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+
+# ─── ML model artifacts (large binary files) ──────────────────────────────────
+model/artifacts/
+**/*.pkl
+# Uncomment below to also exclude YOLO weights (they are large)
+# faceDetection/*.pt
+
+# ─── Sensitive / env files ────────────────────────────────────────────────────
+.env
+*.env
+.env.*
+!.env.example
+
+# ─── AWS credential leaks ─────────────────────────────────────────────────────
+faceEmotionAWS/**/*.json
+
+# ─── OS & editor junk ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# ─── Logs & temp ──────────────────────────────────────────────────────────────
+*.log

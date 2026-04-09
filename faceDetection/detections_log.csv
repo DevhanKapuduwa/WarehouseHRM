@@ -1,0 +1,132 @@
+timestamp,name,similarity,camera
+2026-02-09 13:38:13,Devhan,0.6614,realsense
+2026-02-09 13:38:24,Devhan,0.5705,realsense
+2026-02-09 13:38:37,Devhan,0.5993,realsense
+2026-02-09 13:38:49,Devhan,0.5564,realsense
+2026-02-12 20:18:44,Devhan,0.5715,realsense
+2026-02-12 20:18:55,Devhan,0.6485,realsense
+2026-02-12 20:19:17,Devhan,0.5731,realsense
+2026-02-12 20:52:24,Devhan,0.5223,realsense
+2026-02-12 20:52:34,Devhan,0.5248,realsense
+2026-02-12 20:52:45,Devhan,0.4674,realsense
+2026-02-12 20:52:55,Devhan,0.4830,realsense
+2026-02-12 20:53:06,Devhan,0.5968,realsense
+2026-03-29 09:49:40,Devhan,0.5613,realsense
+2026-03-29 09:49:50,Devhan,0.6872,realsense
+2026-03-29 18:42:45,WRK001,0.5013,realsense
+2026-03-29 18:43:58,WRK001,0.4613,realsense
+2026-03-29 18:44:13,WRK001,0.6217,realsense
+2026-03-29 18:44:23,WRK001,0.5796,realsense
+2026-03-29 19:08:37,WRK001,0.4687,realsense
+2026-03-29 19:08:47,WRK001,0.6908,realsense
+2026-03-29 19:11:29,WRK001,0.6338,realsense
+2026-03-29 19:11:52,WRK001,0.6327,realsense
+2026-03-29 19:12:03,WRK001,0.6845,realsense
+2026-03-29 19:12:13,WRK001,0.7235,realsense
+2026-03-29 19:12:23,WRK001,0.6138,realsense
+2026-03-29 19:12:34,WRK001,0.6836,realsense
+2026-03-29 19:12:59,WRK001,0.6626,realsense
+2026-03-29 19:13:09,WRK001,0.6888,realsense
+2026-03-29 19:13:19,WRK001,0.6855,realsense
+2026-03-29 19:13:30,WRK001,0.6663,realsense
+2026-03-29 19:14:48,WRK001,0.5663,realsense
+2026-03-29 19:14:58,WRK001,0.6442,realsense
+2026-03-29 19:15:09,WRK001,0.6349,realsense
+2026-03-29 19:17:21,WRK001,0.4837,realsense
+2026-03-29 19:17:31,WRK001,0.7115,realsense
+2026-03-29 19:17:41,WRK001,0.5964,realsense
+2026-03-29 19:17:51,WRK001,0.6750,realsense
+2026-03-29 19:18:02,WRK001,0.6644,realsense
+2026-03-29 19:18:12,WRK001,0.5596,realsense
+2026-03-29 19:37:58,WRK001,0.4235,realsense
+2026-03-29 19:38:09,WRK001,0.6774,realsense
+2026-03-29 19:38:20,WRK001,0.7034,realsense
+2026-03-29 19:38:30,WRK001,0.6611,realsense
+2026-03-29 19:38:41,WRK001,0.6427,realsense
+2026-03-29 19:42:29,WRK001,0.6231,realsense
+2026-03-29 19:42:39,WRK001,0.6585,realsense
+2026-03-29 19:42:50,WRK001,0.6003,realsense
+2026-03-29 19:43:00,WRK001,0.6573,realsense
+2026-03-29 19:43:10,WRK001,0.6255,realsense
+2026-03-29 19:43:20,WRK001,0.6779,realsense
+2026-03-29 19:57:26,WRK001,0.5207,realsense
+2026-03-29 19:57:36,WRK001,0.3591,realsense
+2026-03-29 19:57:46,WRK001,0.4347,realsense
+2026-03-29 20:06:49,WRK001,0.6078,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-29_20-06-49.jpg
+2026-03-29 20:07:02,WRK001,0.6134,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-29_20-07-02.jpg
+2026-03-29 20:07:14,WRK001,0.6068,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-29_20-07-14.jpg
+2026-03-30 11:03:07,WRK001,0.5830,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-03-07.jpg
+2026-03-30 11:03:17,WRK001,0.6370,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-03-17.jpg
+2026-03-30 11:06:17,WRK001,0.6048,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-06-17.jpg
+2026-03-30 11:06:28,WRK001,0.6866,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-06-28.jpg
+2026-03-30 11:06:38,WRK001,0.6862,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-06-38.jpg
+2026-03-30 11:52:32,WRK001,0.4655,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-52-32.jpg
+2026-03-30 11:52:42,WRK001,0.6585,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-52-42.jpg
+2026-03-30 11:52:53,WRK001,0.6272,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-52-53.jpg
+2026-03-30 11:53:03,WRK001,0.5451,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-53-03.jpg
+2026-03-30 11:53:17,WRK001,0.5153,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-53-17.jpg
+2026-03-30 11:53:27,WRK001,0.5122,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-53-27.jpg
+2026-03-30 11:53:37,WRK001,0.5758,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-53-37.jpg
+2026-03-30 11:53:47,WRK001,0.5385,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-53-47.jpg
+2026-03-30 11:53:57,WRK001,0.6075,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-53-57.jpg
+2026-03-30 11:54:08,WRK001,0.5238,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-54-08.jpg
+2026-03-30 11:54:25,WRK001,0.4494,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-54-25.jpg
+2026-03-30 11:54:35,WRK001,0.4034,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-54-35.jpg
+2026-03-30 11:54:48,WRK001,0.5698,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-54-48.jpg
+2026-03-30 11:54:58,WRK001,0.2807,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-03-30_11-54-58.jpg
+2026-04-09 17:27:12,WRK001,0.5927,realsense
+2026-04-09 17:27:23,WRK001,0.6594,realsense
+2026-04-09 17:27:35,WRK001,0.5648,realsense
+2026-04-09 17:27:45,WRK001,0.5599,realsense
+2026-04-09 17:27:56,WRK001,0.5025,realsense
+2026-04-09 17:28:07,WRK001,0.5100,realsense
+2026-04-09 17:28:18,WRK001,0.4663,realsense
+2026-04-09 17:28:28,WRK001,0.6613,realsense
+2026-04-09 17:28:38,WRK001,0.6398,realsense
+2026-04-09 17:29:19,WRK001,0.4043,realsense
+2026-04-09 17:29:53,WRK001,0.5345,realsense
+2026-04-09 17:30:03,WRK001,0.4246,realsense
+2026-04-09 17:30:24,WRK001,0.6453,realsense
+2026-04-09 17:30:45,WRK001,0.5353,realsense
+2026-04-09 17:30:56,WRK001,0.3015,realsense
+2026-04-09 17:31:15,WRK001,0.6046,realsense
+2026-04-09 17:31:53,WRK001,0.3719,realsense
+2026-04-09 17:32:04,WRK001,0.4588,realsense
+2026-04-09 17:32:15,WRK001,0.4516,realsense
+2026-04-09 17:32:25,WRK001,0.4550,realsense
+2026-04-09 17:33:40,WRK001,0.5778,realsense
+2026-04-09 17:34:36,WRK001,0.4514,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-34-36.jpg
+2026-04-09 17:34:47,WRK001,0.3152,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-34-47.jpg
+2026-04-09 17:34:59,WRK001,0.4573,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-34-59.jpg
+2026-04-09 17:36:18,WRK001,0.3887,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-36-18.jpg
+2026-04-09 17:36:28,WRK001,0.4306,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-36-28.jpg
+2026-04-09 17:36:39,WRK001,0.4626,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-36-39.jpg
+2026-04-09 17:37:25,WRK001,0.4218,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-37-25.jpg
+2026-04-09 17:37:36,WRK001,0.3948,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-37-36.jpg
+2026-04-09 17:37:53,WRK001,0.4685,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-37-53.jpg
+2026-04-09 17:38:04,WRK001,0.5463,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-38-04.jpg
+2026-04-09 17:38:14,WRK001,0.6002,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-38-14.jpg
+2026-04-09 17:38:24,WRK001,0.5886,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-38-24.jpg
+2026-04-09 17:38:34,WRK001,0.6312,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-38-34.jpg
+2026-04-09 17:43:16,WRK001,0.5872,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-43-16.jpg
+2026-04-09 17:43:26,WRK001,0.6186,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-43-26.jpg
+2026-04-09 17:44:21,WRK001,0.5796,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-44-21.jpg
+2026-04-09 17:44:31,WRK001,0.6246,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-44-31.jpg
+2026-04-09 17:44:41,WRK001,0.5820,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-44-41.jpg
+2026-04-09 17:44:52,WRK001,0.6498,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-44-52.jpg
+2026-04-09 17:45:23,WRK001,0.5003,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-45-23.jpg
+2026-04-09 17:45:33,WRK001,0.5983,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-45-33.jpg
+2026-04-09 17:45:49,WRK001,0.5783,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-45-49.jpg
+2026-04-09 17:46:00,WRK001,0.5298,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-46-00.jpg
+2026-04-09 17:46:19,WRK001,0.5749,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-46-19.jpg
+2026-04-09 17:46:29,WRK001,0.6204,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-46-29.jpg
+2026-04-09 17:46:40,WRK001,0.6184,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-46-40.jpg
+2026-04-09 17:46:51,WRK001,0.6786,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-46-51.jpg
+2026-04-09 17:47:01,WRK001,0.4765,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-47-01.jpg
+2026-04-09 17:47:27,WRK001,0.3906,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-47-27.jpg
+2026-04-09 17:47:37,WRK001,0.5486,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-47-37.jpg
+2026-04-09 17:50:03,WRK001,0.3996,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-50-03.jpg
+2026-04-09 17:50:46,WRK001,0.4425,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-50-46.jpg
+2026-04-09 17:50:57,WRK001,0.5535,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_17-50-57.jpg
+2026-04-09 21:30:02,WRK001,0.5480,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_21-30-02.jpg
+2026-04-09 21:30:52,WRK001,0.4819,realsense,D:\Data managment\faceEmotionAWS\database\WRK001\WRK001_2026-04-09_21-30-52.jpg
