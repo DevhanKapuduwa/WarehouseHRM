@@ -4,8 +4,29 @@
 
 ---
 
+## ⚡ Quick Start (After Setup)
+
+> Already set up the project? Just run these two commands from **anywhere** on Windows:
+
+**▶️ Start everything:**
+```powershell
+powershell -ExecutionPolicy Bypass -File "D:\Data managment\start_all.ps1"
+```
+
+**⏹ Stop everything:**
+```powershell
+powershell -ExecutionPolicy Bypass -File "D:\Data managment\stop_all.ps1"
+```
+
+Then open 👉 **http://localhost:5173** in your browser.
+
+> 💡 **Why `-ExecutionPolicy Bypass`?** Windows blocks unsigned scripts by default. This flag lets you run the scripts without permanently changing your system policy — it only applies to that single command.
+
+---
+
 ## 📋 Table of Contents
 
+- [⚡ Quick Start (After Setup)](#-quick-start-after-setup)
 - [System Overview](#-system-overview)
 - [Architecture](#-architecture)
 - [Features](#-features)
@@ -328,7 +349,13 @@ region = ap-south-1
 
 ### Option A — One-Click Start (Recommended on Windows)
 
-From the root of the project, open PowerShell and run:
+Open **any PowerShell window** (no need to navigate to the folder) and run:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File "D:\Data managment\start_all.ps1"
+```
+
+Or if your PowerShell is already inside the project folder:
 
 ```powershell
 .\start_all.ps1
@@ -384,7 +411,13 @@ python step8_attendance_with_photos.py
 
 ## ⏹ Stopping the Application
 
-From the root of the project, run:
+Open **any PowerShell window** and run:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File "D:\Data managment\stop_all.ps1"
+```
+
+Or from inside the project folder:
 
 ```powershell
 .\stop_all.ps1
