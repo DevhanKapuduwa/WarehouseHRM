@@ -2,6 +2,8 @@
 
 > An integrated, multi-service platform combining a **Laravel + React management dashboard** with **real-time face recognition attendance**, **AWS Rekognition emotion analysis**, and a **machine-learning churn prediction engine**.
 
+> 🏫 **Camera Note:** The **Intel RealSense D400-series** depth camera used by this system is available at the **Department of Computer Engineering, University of Sri Jayewardenepura**. For best face recognition results, it is strongly recommended to run this system using that specific camera model.
+
 ---
 
 ## ⚡ Quick Start (After Setup)
@@ -94,6 +96,7 @@ Face Detection (step8) ──► detections_log.csv
 
 ### 📸 Real-Time Face Recognition Attendance
 - Uses **Intel RealSense D400-series** depth camera at 1280×720
+  > 🏫 **This camera is available at the Department of Computer Engineering, University of Sri Jayewardenepura.** Using this exact model is strongly recommended for optimal detection accuracy and performance.
 - **YOLOv8s** detects persons in the frame
 - **InsightFace (RetinaFace + ArcFace)** extracts 512-dim face embeddings
 - **Low-light enhancement** (CLAHE + auto-gamma + bilateral denoise)
@@ -207,7 +210,7 @@ Make sure the following are installed before you begin:
 | npm | 9+ | |
 | Python | 3.10+ | For all Python services |
 | MySQL | 8.x | Local or remote instance |
-| Intel RealSense SDK | 2.x | Required for face detection (`pyrealsense2`) |
+| Intel RealSense SDK | 2.x | Required for face detection (`pyrealsense2`). **Camera available at Dept. of Computer Engineering, University of Sri Jayewardenepura.** |
 | AWS Account | — | For Rekognition emotion analysis |
 
 ---
