@@ -1,0 +1,25 @@
+{
+  "test_roc_auc": 0.4958913042134606,
+  "test_average_precision": 0.20068308252708575,
+  "optimal_threshold_oof": 0.5,
+  "confusion_default_0.5": [
+    [
+      1374,
+      220
+    ],
+    [
+      355,
+      51
+    ]
+  ],
+  "confusion_calibrated": [
+    [
+      1374,
+      220
+    ],
+    [
+      355,
+      51
+    ]
+  ]
+}

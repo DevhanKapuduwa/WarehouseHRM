@@ -1,0 +1,20 @@
+{
+  "best_cv_roc_auc": 0.48815978264694077,
+  "best_params": {
+    "clf__subsample": 0.85,
+    "clf__reg_lambda": 1.9306977288832496,
+    "clf__reg_alpha": 2.6826957952797246,
+    "clf__n_estimators": 550,
+    "clf__min_child_weight": 3,
+    "clf__max_depth": 6,
+    "clf__learning_rate": 0.17789473684210527,
+    "clf__gamma": 0.5,
+    "clf__colsample_bytree": 0.7
+  },
+  "n_samples_total": 10000,
+  "train_size": 8000,
+  "test_size": 2000,
+  "churn_rate_full": 0.2028,
+  "churn_rate_train": 0.20275,
+  "scale_pos_weight_train": 3.9321824907521576
+}
